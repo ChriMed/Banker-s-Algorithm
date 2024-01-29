@@ -1,4 +1,3 @@
-https://replit.com/@Raphtaliaowo/Bankers-Algorithm?v=1
 This project covers the banker algorithm for measuring the safety of processes.
 this algorithm takes information from a text files storing them into 2D vectors.
 This program will...
